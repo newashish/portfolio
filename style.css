@@ -1,0 +1,52 @@
+body {
+    padding-top: 70px;
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background: linear-gradient(to right, #002b5c, #004a99);
+    color: white;
+    padding: 100px 20px;
+}
+
+.highlight {
+    color: #00eaff;
+}
+
+.profile-img {
+    width: 220px;
+    border-radius: 50%;
+    border: 5px solid #007bff;
+}
+
+.section {
+    padding: 60px 20px;
+}
+
+.skill-box {
+    background: #007bff;
+    padding: 15px;
+    margin: 10px;
+    color: white;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.project-card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+.timeline {
+    list-style: none;
+    padding: 0;
+}
+
+.timeline li {
+    margin-bottom: 20px;
+    padding-left: 20px;
+    border-left: 3px solid #007bff;
+}
